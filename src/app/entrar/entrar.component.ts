@@ -13,10 +13,11 @@ import { Component, OnInit } from '@angular/core';
 export class EntrarComponent implements OnInit {
 
   userLogin: UserLogin = new UserLogin()
-  alertas: any;
-  constructor(
+
+   constructor(
     private auth: AuthService,
-    private router: Router
+    private router: Router,
+    private alertas: AlertasService
   ) { }
 
   ngOnInit() {

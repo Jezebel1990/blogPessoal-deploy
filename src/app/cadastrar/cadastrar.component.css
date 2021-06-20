@@ -6,9 +6,9 @@
  
 
 .form-group{
-    color: #272262;
-    font-size: 14pt;
-    font-weight: bold;
+    color: #a6808c;
+    font-size: 12pt;
+    font-weight:bolder;
 }
 
  
@@ -21,3 +21,6 @@
     background-size: cover;
 }
 
+h1{
+    color: #5b3758;
+}
