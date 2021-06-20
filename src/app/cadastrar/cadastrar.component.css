@@ -1,9 +1,23 @@
+ 
+.row{
+
+    background: #f0aaf0;
+}
+ 
+
+.form-group{
+    color: #272262;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+ 
  #img-bg{
-    background-image: url('https://i.imgur.com/w3d95jN.jpg');
+    background-image: url('https://i.imgur.com/2RkdQFD.jpg');
 
     min-height: 695px;
-
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+

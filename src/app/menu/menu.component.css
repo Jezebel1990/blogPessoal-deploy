@@ -5,3 +5,8 @@ font-size: 16pt;
 a{
     cursor:pointer;
 }
+
+.navbar{
+
+    background: #7b2cbf;
+}

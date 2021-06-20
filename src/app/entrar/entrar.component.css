@@ -1,9 +1,39 @@
 #img-bg{
-    background-image: url('https://i.imgur.com/d5bMdDJ.jpg');
+background-image: url('https://i.imgur.com/fdZdAb5.jpg');
 
-    min-height: 695px;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+min-height: 695px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
+
+p{
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+a{
+    
+    color:#272262;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all .3s ease-out;
+}
+
+.row{
+
+    background: #b3a4db;
+}
+
+.form-group{
+    color: white;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+hr{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 100%;
+}
+
