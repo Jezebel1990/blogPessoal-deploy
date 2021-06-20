@@ -1,4 +1,4 @@
-# BlogPessoal
+# BlogPessoal - Tema Friends, link: https://blog-pessoal-jezebel.netlify.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
